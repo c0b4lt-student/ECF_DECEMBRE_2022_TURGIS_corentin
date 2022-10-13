@@ -1,0 +1,7 @@
+.led-img {
+    height: 16px;
+    width: 16px;
+    position: relative;
+    top: 8px;
+    left: 5%;
+}
